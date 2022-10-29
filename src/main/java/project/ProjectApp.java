@@ -1,8 +1,8 @@
-package projects;
+package project;
 
-import projects.dao.DbConnection;
+import project.dao.DbConnection;
 
-public class ProjectsApp {
+public class ProjectApp {
 
 	public static void main(String[] args) {
 		
