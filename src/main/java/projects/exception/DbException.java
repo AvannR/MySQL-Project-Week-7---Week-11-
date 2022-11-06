@@ -1,4 +1,4 @@
-package project.exception;
+package projects.exception;
 
 @SuppressWarnings("serial")
 public class DbException extends RuntimeException {
